@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\bin\Debug\netcoreapp3.1\AlightApp.Domain.deps.json
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\bin\Debug\netcoreapp3.1\AlightApp.Domain.dll
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\bin\Debug\netcoreapp3.1\AlightApp.Domain.pdb
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\obj\Debug\netcoreapp3.1\AlightApp.Domain.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\obj\Debug\netcoreapp3.1\AlightApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\obj\Debug\netcoreapp3.1\AlightApp.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\obj\Debug\netcoreapp3.1\AlightApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\obj\Debug\netcoreapp3.1\AlightApp.Domain.dll
+C:\Users\Administrator\source\repos\AlightApp.Api\AlightApp.Domain\obj\Debug\netcoreapp3.1\AlightApp.Domain.pdb
